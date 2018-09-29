@@ -20,7 +20,8 @@ public class Main {
        // Call the C method.
         
        return nativeGreeting(chairs,category,toReserve); 
-    }/*
+    }
+    /*
     public static void main(String[] arg){
         new Main().mains(6, "Camelot", 50);
     }*/
